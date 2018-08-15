@@ -1,0 +1,30 @@
+C:\Users\Priscilla\source\repos\Cálculo de tempo com polimorfismo\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo de tempo com polimorfismo.csprojAssemblyReference.cache
+C:\Users\Priscilla\source\repos\Cálculo de tempo com polimorfismo\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo_de_tempo_com_polimorfismo.Form1.resources
+C:\Users\Priscilla\source\repos\Cálculo de tempo com polimorfismo\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo_de_tempo_com_polimorfismo.Properties.Resources.resources
+C:\Users\Priscilla\source\repos\Cálculo de tempo com polimorfismo\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo de tempo com polimorfismo.csproj.GenerateResource.cache
+C:\Users\Priscilla\source\repos\Cálculo de tempo com polimorfismo\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo de tempo com polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\source\repos\Cálculo de tempo com polimorfismo\Cálculo de tempo com polimorfismo\bin\Debug\Cálculo de tempo com polimorfismo.exe.config
+C:\Users\Priscilla\source\repos\Cálculo de tempo com polimorfismo\Cálculo de tempo com polimorfismo\bin\Debug\Cálculo de tempo com polimorfismo.exe
+C:\Users\Priscilla\source\repos\Cálculo de tempo com polimorfismo\Cálculo de tempo com polimorfismo\bin\Debug\Cálculo de tempo com polimorfismo.pdb
+C:\Users\Priscilla\source\repos\Cálculo de tempo com polimorfismo\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo de tempo com polimorfismo.exe
+C:\Users\Priscilla\source\repos\Cálculo de tempo com polimorfismo\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo de tempo com polimorfismo.pdb
+C:\Users\Priscilla\Desktop\Treino POO\Cálculo de tempo com polimorfismo\Cálculo de tempo com polimorfismo\bin\Debug\Cálculo de tempo com polimorfismo.exe.config
+C:\Users\Priscilla\Desktop\Treino POO\Cálculo de tempo com polimorfismo\Cálculo de tempo com polimorfismo\bin\Debug\Cálculo de tempo com polimorfismo.exe
+C:\Users\Priscilla\Desktop\Treino POO\Cálculo de tempo com polimorfismo\Cálculo de tempo com polimorfismo\bin\Debug\Cálculo de tempo com polimorfismo.pdb
+C:\Users\Priscilla\Desktop\Treino POO\Cálculo de tempo com polimorfismo\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo de tempo com polimorfismo.csprojAssemblyReference.cache
+C:\Users\Priscilla\Desktop\Treino POO\Cálculo de tempo com polimorfismo\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo_de_tempo_com_polimorfismo.Form1.resources
+C:\Users\Priscilla\Desktop\Treino POO\Cálculo de tempo com polimorfismo\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo_de_tempo_com_polimorfismo.Properties.Resources.resources
+C:\Users\Priscilla\Desktop\Treino POO\Cálculo de tempo com polimorfismo\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo de tempo com polimorfismo.csproj.GenerateResource.cache
+C:\Users\Priscilla\Desktop\Treino POO\Cálculo de tempo com polimorfismo\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo de tempo com polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\Desktop\Treino POO\Cálculo de tempo com polimorfismo\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo de tempo com polimorfismo.exe
+C:\Users\Priscilla\Desktop\Treino POO\Cálculo de tempo com polimorfismo\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo de tempo com polimorfismo.pdb
+C:\Users\Priscilla\Desktop\Treino POO\1 Cálculo de tempo (polimorfismo)\Cálculo de tempo com polimorfismo\bin\Debug\Cálculo de tempo com polimorfismo.exe.config
+C:\Users\Priscilla\Desktop\Treino POO\1 Cálculo de tempo (polimorfismo)\Cálculo de tempo com polimorfismo\bin\Debug\Cálculo de tempo com polimorfismo.exe
+C:\Users\Priscilla\Desktop\Treino POO\1 Cálculo de tempo (polimorfismo)\Cálculo de tempo com polimorfismo\bin\Debug\Cálculo de tempo com polimorfismo.pdb
+C:\Users\Priscilla\Desktop\Treino POO\1 Cálculo de tempo (polimorfismo)\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo de tempo com polimorfismo.csprojAssemblyReference.cache
+C:\Users\Priscilla\Desktop\Treino POO\1 Cálculo de tempo (polimorfismo)\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo_de_tempo_com_polimorfismo.Form1.resources
+C:\Users\Priscilla\Desktop\Treino POO\1 Cálculo de tempo (polimorfismo)\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo_de_tempo_com_polimorfismo.Properties.Resources.resources
+C:\Users\Priscilla\Desktop\Treino POO\1 Cálculo de tempo (polimorfismo)\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo de tempo com polimorfismo.csproj.GenerateResource.cache
+C:\Users\Priscilla\Desktop\Treino POO\1 Cálculo de tempo (polimorfismo)\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo de tempo com polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\Desktop\Treino POO\1 Cálculo de tempo (polimorfismo)\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo de tempo com polimorfismo.exe
+C:\Users\Priscilla\Desktop\Treino POO\1 Cálculo de tempo (polimorfismo)\Cálculo de tempo com polimorfismo\obj\Debug\Cálculo de tempo com polimorfismo.pdb
