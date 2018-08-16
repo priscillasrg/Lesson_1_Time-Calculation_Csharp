@@ -1,5 +1,5 @@
-# Atividade: Cálculo de tempo em C# - Lesson: Calculation of time C#
-Cálculo de tempo C#  - Calculation of time C # 
+# Atividade: Cálculo de tempo em C# - Lesson: Time Calculation C#
+Cálculo de tempo C#  - Time Calculation C#
 
 (PT) Atividade - Inserir velocidade e distância e calcular o tempo.
 
